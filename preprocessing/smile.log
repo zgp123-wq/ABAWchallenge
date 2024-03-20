@@ -1,0 +1,16 @@
+[ 08.02.2024 - 05:19:37 ]
+    (MSG) [2] SMILEapi: openSMILE starting!
+[ 08.02.2024 - 05:19:37 ]
+    (MSG) [2] SMILEapi: config file is: /home/data/lrd/zgp/abaw/abaw5_preprocessing/load/opensmile_mfcc.conf
+[ 08.02.2024 - 05:19:37 ]
+    (MSG) [2] cComponentManager: successfully registered 102 component types.
+[ 08.02.2024 - 05:19:37 ]
+    (ERR) [0] commandlineParser: parse: unknown option '-bufferModeRbConf' on commandline!
+[ 08.02.2024 - 05:19:37 ]
+    (ERR) [0] commandlineParser: parse: unknown option '-frameModeFunctionalsConf' on commandline!
+[ 08.02.2024 - 05:19:37 ]
+    (MSG) [2] cComponentManager: successfully finished createInstances (12 component instances were finalised, 1 data memories were finalised)
+[ 08.02.2024 - 05:19:37 ]
+    (MSG) [2] cComponentManager: starting single thread processing loop
+[ 08.02.2024 - 05:19:37 ]
+    (MSG) [2] cComponentManager: Processing finished! System ran for 8061 ticks.
